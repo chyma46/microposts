@@ -19,3 +19,4 @@ class ApplicationController < ActionController::Base
     @count_likes = user.likes.count
   end
 end
+a
